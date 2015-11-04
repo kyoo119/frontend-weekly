@@ -13,3 +13,5 @@
   * http://csslayout.news/ (CSS)
   * http://svg-news.com/ (SVG)
   * http://svgweekly.com/ (SVG)
+  * http://www.smashingmagazine.com/the-smashing-newsletter/ (Smashingmagazine에서 제공하는 뉴스레터)
+  * https://wdrl.info/ (Web Development Reading List)
