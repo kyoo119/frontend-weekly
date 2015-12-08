@@ -15,3 +15,4 @@
   * http://svgweekly.com/ (SVG)
   * http://www.smashingmagazine.com/the-smashing-newsletter/ (Smashingmagazine에서 제공하는 뉴스레터)
   * https://wdrl.info/ (Web Development Reading List)
+  * http://dev.zzoman.com/blog_dev/archives/ (한글번역)
