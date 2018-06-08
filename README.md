@@ -17,3 +17,4 @@
   * https://wdrl.info/ (Web Development Reading List)
   * http://dev.zzoman.com/blog_dev/archives/ (한글번역)
   * https://github.com/nhnent/fe.javascript/wiki/FE-Weekly (한글번역:매주 발간되는 Weekly를 토대로, 기술 트렌드 및 업계 동향을 공유)
+  * https://www.webaudioweekly.com/ (Audio)
